@@ -23,6 +23,10 @@ img {
   display: block;
 }
 
+ul,
+ol {
+  list-style: none;
+}
 * {
   box-sizing: border-box;
 }
